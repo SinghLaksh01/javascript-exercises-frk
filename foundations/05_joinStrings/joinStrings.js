@@ -9,8 +9,9 @@
 
 // Add your code right below, good luck!
 
-
-
+let firstName = "Carlos", lastName = "Stevenson", currentYear = 1965, birthYear = 1947
+let fullName = firstName + " " + lastName, age = currentYear-birthYear
+greeting = `Hello! My name is ${lastName} and I am ${age} years old.`
 
 
 // Do not change this
